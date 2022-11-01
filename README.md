@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/少数派-SpencerWoo-da282a
+![少数派](https://img.shields.io/badge/少数派-SpencerWoo-da282a)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
