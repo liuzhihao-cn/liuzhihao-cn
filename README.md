@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-**liuzhihao-cn/liuzhihao-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zhihao LIU, currently studying at the Center of Gravity Experiments, School of Physics, Huazhong University of Science and Technology(HUST).
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
-![少数派](https://img.shields.io/badge/少数派-SpencerWoo-da282a)
+![HUST](https://img.shields.io/badge/CGE-HUST-da282a)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on CGE
+- 🌱 I’m currently learning C/C++ and Verilog
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
